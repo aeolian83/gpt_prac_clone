@@ -1,6 +1,12 @@
+# folder
 .env
 .cache/
 files/
 temp/
 .streamlit/
+.study/
+
+
+# file
 practice.ipynb
+*.ipynb
