@@ -10,3 +10,7 @@ temp/
 # file
 practice.ipynb
 *.ipynb
+model.json
+cache.db
+prompt.json
+prompt.yaml
